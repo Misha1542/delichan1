@@ -20,3 +20,10 @@ def misha(a):
 #функция на команду чтобы создать файл 
 def file():
   open("file123", +w)
+#ООП
+class Cars():
+  def __init__(self, color,window):
+    self.color = color
+    self.window = window
+    
+   
