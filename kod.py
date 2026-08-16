@@ -25,5 +25,6 @@ class Cars():
   def __init__(self, color,window):
     self.color = color
     self.window = window
+    # миша сосет лапу
     
    
