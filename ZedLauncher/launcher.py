@@ -1,5 +1,5 @@
 import tkinter as tk
-tk = tk.Tk() 
+root = tk.Tk() 
 Label = tk.Label(text="жопа")
 Label.pack()
-tk.mainloop()
+root.mainloop()
